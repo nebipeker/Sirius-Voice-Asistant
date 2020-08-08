@@ -6,6 +6,17 @@ import random
 import webbrowser
 import wikipedia
 
+"""
+###########################################################################################################################
+@author Peker Çelik
+Linkedin: https://www.linkedin.com/in/pekercelik/
+Github: https://github.com/nebipeker
+Kaggle: https://www.kaggle.com/nebipeker
+Website: http://pekercelik.com
+Date: 08/08/2020
+###########################################################################################################################
+"""
+
 wikipedia.set_lang("en")
 r = sr.Recognizer()
 def record():
